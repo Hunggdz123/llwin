@@ -93,7 +93,7 @@
         }
 
         .banner-wrapper {
-            margin-top: -100px;
+            margin-top: -70px;
             padding: 0 16px 32px;
             text-align: center;
         }
@@ -231,10 +231,10 @@
             }
             .container {
                 padding: 24px 32px 48px;
-                        margin-top: -80px;
-                    }
-                    .banner-wrapper {
-                        margin-top: -80px;
+                margin-top: -80px;
+            }
+            .banner-wrapper {
+                margin-top: -50px;
             }
             .circle-wrapper {
                 width: 134px;
@@ -260,7 +260,7 @@
         margin: -150px auto 0;
     }
     .banner-wrapper {
-        margin-top: -170px;
+        margin-top: -140px;
     }
 }
 
@@ -328,7 +328,7 @@
                 margin-top: -56px;
             }
             .banner-wrapper {
-                margin-top: -56px;
+                margin-top: -26px;
                 padding: 0 10px 24px;
             }
             .section-title {
