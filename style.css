@@ -258,7 +258,7 @@
 }
 
 .services {
-    margin-top: 70px !important;
+    margin-top: 50px !important;
 }
 /* Keep original lifted layout on large desktops only */
 @media (min-width: 1201px) {
