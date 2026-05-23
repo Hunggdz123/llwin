@@ -398,6 +398,15 @@
             .service-card h3 {
                 font-size: 0.68rem;
             }
+
+/* Custom adjustments: move hero section and flags down */
+.hero-image {
+    margin-top: 50px !important;
+}
+
+.services {
+    margin-top: 100px !important;
+}
         }
 
 /* Ensure hero image and banner spacing are responsive (removed inline negative margins) */
