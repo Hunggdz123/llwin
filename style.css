@@ -253,7 +253,13 @@
                 padding: 36px 18px 48px;
             }
         }
+            .hero-image {
+    margin-top: 100px !important;
+}
 
+.services {
+    margin-top: 100px !important;
+}
 /* Keep original lifted layout on large desktops only */
 @media (min-width: 1201px) {
     .services {
@@ -399,15 +405,6 @@
                 font-size: 0.68rem;
             }
 
-/* Custom adjustments: move hero section and flags down */
-.hero-image {
-    margin-top: 50px !important;
-}
-
-.services {
-    margin-top: 100px !important;
-}
-        }
 
 /* Ensure hero image and banner spacing are responsive (removed inline negative margins) */
 .hero-img {
@@ -462,5 +459,4 @@
         transform: scale(0.95);
         max-width: 95%;
     }
-}
-        
+}}
